@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/doreizu" target="blank"><img src="https://img.shields.io/twitter/follow/doreizu?logo=twitter&style=for-the-badge" alt="doreizu" /></a> </p>
 
-- 🌱 I’m currently learning **Vue & Laravel**
+- 🌱 I’m currently learning **Vue - Laravel - Node.js - Flutter**
 
 - 👨‍💻 All of my projects are available at [https://tristanderez.com](https://tristanderez.com)
 
