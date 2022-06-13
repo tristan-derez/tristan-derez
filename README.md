@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
-<h3 align="center">A passionate software designer and developer student from France</h3>
+<h3 align="center">A passionate fullstack developer from France</h3>
 
 <p align="center"> <a href="https://twitter.com/doreizu" target="blank"><img src="https://img.shields.io/twitter/follow/doreizu?logo=twitter&style=for-the-badge" alt="doreizu" /></a> </p>
 
