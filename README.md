@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Vue - Laravel - Node.js - Flutter**
 
-- 👨‍💻 All of my projects are available at [https://tristanderez.com](https://tristanderez.com)
+- 👨‍💻 My projects are available at [https://tristanderez.com](https://tristanderez.com)
 
 - 📫 How to reach me **tristan.derez@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
