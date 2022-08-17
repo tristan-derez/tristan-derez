@@ -7,7 +7,7 @@
 
 - 👨‍💻 My projects are available at [https://tristanderez.com](https://tristanderez.com)
 
-- 📫 How to reach me **tristan.derez@gmail.com**
+- 📫 Reach me @ **tristan.derez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
