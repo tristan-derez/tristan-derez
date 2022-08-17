@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue & Laravel**
 
-- 👨‍💻 All of my projects are available at [https://tristanderez.com](https://tristanderez.com)
+- 👨‍💻 My projects are available at [https://tristanderez.com](https://tristanderez.com)
 
 - 📫 How to reach me **tristan.derez@gmail.com**
 
