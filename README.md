@@ -1,9 +1,10 @@
 <h1 align="center">Hi👋, I'm Tristan</h1>
 <h3 align="center">A full stack dev from France</h3>
-
+<p align="center">
 - 👨‍💻 My projects are available at [https://tristanderez.com](https://tristanderez.com)
 
 - 📫 Reach me @ **tristan.derez@gmail.com**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
