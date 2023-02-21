@@ -1,11 +1,3 @@
-<h1 align="center">Hi👋, I'm Tristan</h1>
-<h3 align="center">A full stack dev from France</h3>
-
-- 👨‍💻 My projects are available at [https://tristanderez.com](https://tristanderez.com)
-  
-- 📫 Reach me @ **tristan.derez@gmail.com**
-
-
 <h3>Connect with me:</h3>
 <p>
 <a href="https://twitter.com/doreizu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doreizu" height="30" width="40" />
