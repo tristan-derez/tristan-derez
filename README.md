@@ -1,4 +1,5 @@
 Hi, I'm Tristan, Software developer from Nantes, France.
+Currently learning Typescript
 
 <h3>Connect with me:</h3>
 
