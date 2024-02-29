@@ -1,6 +1,6 @@
 Hi, I'm Tristan, Software developer from Nantes, France.
 
-TypeScript user
+I enjoy coding in typescript, python and go
 
 <h3>Connect with me:</h3>
 
